@@ -1,1 +1,1 @@
-# template-pr-example
+Pull request template example.
